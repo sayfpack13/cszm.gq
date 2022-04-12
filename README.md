@@ -1,0 +1,2 @@
+# cszm.gq
+WEB REDIRECTION
