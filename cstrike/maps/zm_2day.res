@@ -1,0 +1,1 @@
+cstrike/sprites/fire2.spr

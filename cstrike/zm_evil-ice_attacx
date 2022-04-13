@@ -1,0 +1,8 @@
+{
+"classname" "worldspawn"
+"message" "zm_evil-ice_attack"
+"skyname" "space"
+"MaxRange" "4096"
+"mapversion" "220"
+"wad" "\users\x infinity x\desktop\my files\cs1.6\cstrike\zm_evil-extinction.wad;\users\x infinity x\desktop\my files\cs1.6\cstrike\zm_evil-ice_attack.wad"
+}
